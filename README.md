@@ -1,5 +1,5 @@
 # SnakeMachine
-A python project who creating a snake on which the computer learns to play alone (machine learning) for a NSI competition
+A python project who create a snake on which the computer learns to play alone (machine learning) for a NSI competition
  
 # Developers
 > Petit Citrus  
