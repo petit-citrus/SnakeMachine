@@ -8,7 +8,7 @@ A python project who creates a snake on which the computer learns to play alone 
 > [Bourriquette](https://github.com/Bourriquette)  
 
 # Roadmap
-- [ ] Board  
+- [x] Board  
 - [x] Snake
 - [ ] Game 
 - [ ] MachineLearning
