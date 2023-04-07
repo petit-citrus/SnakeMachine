@@ -24,4 +24,4 @@ A python project who creates a snake on which the computer learns to play alone 
   
 # Special Thanks
 > [Xibitol](https://github.com/Xibitol)  
-> [Your NSI teacher](https://github.com/jgoguet)
+> [Our NSI teacher](https://github.com/jgoguet)
