@@ -1,5 +1,5 @@
 # SnakeMachine
-🄰 🄿🅈🅃🄷🄾🄽 🄿🅁🄾🄹🄴🄲🅃 🅆🄷🄾 🄲🅁🄴🄰🅃🄴🅂 🄰 🅂🄽🄰🄺🄴 🄾🄽 🅆🄷🄸🄲🄷 🅃🄷🄴 🄲🄾🄼🄿🅄🅃🄴🅁 🄻🄴🄰🅁🄽🅂 🅃🄾 🄿🄻🄰🅈 🄰🄻🄾🄽🄴 (🄼🄰🄲🄷🄸🄽🄴 🄻🄴🄰🅁🄽🄸🄽🄶) 🄵🄾🅁 🄰 🄽🅂🄸 (**🄽**🅄🄼é🅁🄸🅀🅄🄴🅂 🄴🅃 **🅂**🄲🄸🄴🄽🄲🄴🅂 **🄸**🄽🄵🄾🅁🄼🄰🅃🄸🅀🅄🄴🅂) 🄲🄾🄼🄿🄴🅃🄸🅃🄸🄾🄽. 
+A python project who creates a Snake on which the computer learns to play alone (Machine Learning) for a NSI (Numériques et Sciences Informatiques) competition.
 # Developers
 > [𝙿𝚎𝚝𝚒𝚝 citrus](https://github.com/petit-citrus)  
 > [𝙽𝚊𝚝𝚞𝚛𝚎𝚕𝚕𝚊𝚎](https://github.com/naturellae)  
@@ -24,7 +24,3 @@
 # Special Thanks
 > [Xibitol](https://github.com/Xibitol)  
 > [Your NSI teacher](https://github.com/jgoguet)
-
-# Projet motivation
-
-Restez motivés d'ici le 28 avril...
